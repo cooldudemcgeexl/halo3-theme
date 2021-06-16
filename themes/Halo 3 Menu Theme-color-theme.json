@@ -1,5 +1,5 @@
 {
-	"$schema": "vscode://schemas/color-theme",
+	"name": "Halo 3 Menu Theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#56382c",

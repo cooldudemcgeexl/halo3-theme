@@ -1,6 +1,6 @@
 {
     "name": "halo3theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "cooldudemcgeexl",
     "author": {
         "name": "Nick Lay"
@@ -17,5 +17,14 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/cooldudemcgeexl/halo3-theme"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Halo 3 Menu Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Halo 3 Menu Theme-color-theme.json"
+            }
+        ]
     }
 }
