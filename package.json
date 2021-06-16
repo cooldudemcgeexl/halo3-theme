@@ -1,0 +1,17 @@
+{
+    "name": "halo3theme",
+    "version": "0.0.1",
+    "publisher": "cooldudemcgeexl",
+    "author": {
+        "name": "Nick Lay"
+    },
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "license": "MIT",
+    "displayName": "Halo 3 Menu Theme",
+    "description": "A theme to resemble the color scheme from the main menu of Halo 3",
+    "categories": ["Themes"],
+    "keywords": ["halo","halo 3","theme","blue","dark"],
+    "icon": "images/icon.png"
+}
