@@ -13,5 +13,9 @@
     "description": "A theme to resemble the color scheme from the main menu of Halo 3",
     "categories": ["Themes"],
     "keywords": ["halo","halo 3","theme","blue","dark"],
-    "icon": "images/icon.png"
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cooldudemcgeexl/halo3-theme"
+    }
 }
