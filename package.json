@@ -29,7 +29,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Halo 3 Menu Theme",
+                "label": "Halo 3 Menu",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Halo 3 Menu Theme-color-theme.json"
             }
