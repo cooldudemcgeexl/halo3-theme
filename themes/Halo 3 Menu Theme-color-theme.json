@@ -1,6 +1,7 @@
 {
 	"name": "Halo 3 Menu Theme",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.activeBackground": "#56382c",
 		"activityBar.background": "#0f1c3d",
